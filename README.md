@@ -1,4 +1,4 @@
-Copyright 2020 The MathWorks, Inc.
+Copyright 2020-2022 The MathWorks, Inc.
 
 This submission demonstrates modeling and simulation of a Two-Zone MVDC electric ship in Simscape Electrical, 
 and considers modeling constructs for both desktop and real-time simulation. More information on the
@@ -13,7 +13,7 @@ and
 
 Read Two_Zone_MVDC_Electric_Ship.pdf
 
-
+Models compatible with R2022b have a '_R2022b' extension on the filename.
 
 
 
